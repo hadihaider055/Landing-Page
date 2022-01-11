@@ -71,8 +71,7 @@ const Footer = () => {
               dolla
             </SocialLogo>
             <WebsiteRights>
-              dolla &copy; {new Date().getFullYear()}
-              All rights reserved.
+              dolla &copy; {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">
